@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a Full Stack Developer at Yes Teknoloji.
+- 💼 &nbsp; Working as a Full Stack Developer at LogoViewer.
 - 🌱 &nbsp; Learning more about Application Architecture, SystemDesign and Cloud Technologies.
 
 <p align="left">
